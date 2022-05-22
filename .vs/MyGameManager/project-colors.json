@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f082e9c3-53df-4070-971c-3d6afb87337a": {
+      "ProjectGuid": "f082e9c3-53df-4070-971c-3d6afb87337a",
+      "DisplayName": "MyGameManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
